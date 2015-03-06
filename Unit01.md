@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV204: Payroll Applications"
+course_description: "The goal of this course is to help you develop the fundamental skills critical to payroll operations, and to help you understand state and federal compliance. This will provide you with a foundation for becoming more versed on the depth of payroll as an intricate component of human-resource management, and business overall."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Payroll Foundations and Understanding Pay** <span
 id="1"></span> 
 
