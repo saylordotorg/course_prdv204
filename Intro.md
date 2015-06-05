@@ -145,4 +145,15 @@ the insight or information you need from a reading, and you have to read
 something more than once, reviewing the materials ahead of time will
 assist you in planning out your time commitment to this course.  
     
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/prdv204/Unit01/)
+- [Unit 2](https://legacy.saylor.org/prdv204/Unit02/)
+- [Unit 3](https://legacy.saylor.org/prdv204/Unit03/)
+- [Unit 4](https://legacy.saylor.org/prdv204/Unit04/)
+- [Unit 5](https://legacy.saylor.org/prdv204/Unit05/)
+- [Unit 6](https://legacy.saylor.org/prdv204/Unit06/)
+- [Unit 7](https://legacy.saylor.org/prdv204/Unit07/)
+- [Unit 8](https://legacy.saylor.org/prdv204/Unit08/)
+- [Unit 9](https://legacy.saylor.org/prdv204/Unit09/)
+- [Unit 10](https://legacy.saylor.org/prdv204/Unit10/)
