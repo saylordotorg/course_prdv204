@@ -167,3 +167,4 @@ assist you in planning out your time commitment to this course.
 - [Unit 8](https://legacy.saylor.org/prdv204/Unit08/)
 - [Unit 9](https://legacy.saylor.org/prdv204/Unit09/)
 - [Unit 10](https://legacy.saylor.org/prdv204/Unit10/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PRDV/PRDV204/PRDV204-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PRDV/PRDV204/PRDV204-FinalExam-Answers.html)
