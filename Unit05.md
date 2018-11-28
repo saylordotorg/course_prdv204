@@ -136,7 +136,7 @@ id="5.2"></span> 
 **5.2.4 Wage Deduction Laws** <span id="5.2.4"></span> 
 -   **Reading: CTE Online: Vella Coffman’s “Deductions from Gross Pay”**
     Link: CTE Online: Vella Coffman’s [“Deductions from Gross
-    Pay”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/PRDV201_Deductions-from-Gross-Pay.pdf)
+    Pay”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/PRDV201_Deductions-from-Gross-Pay.pdf)
     (PDF)  
       
      Instructions: Read this article to gain an understanding of the
