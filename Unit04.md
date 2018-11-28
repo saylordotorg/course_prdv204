@@ -82,7 +82,7 @@ id="4.1.2"></span> 
     Employer's Tax Guide”**
     Link: U.S. Internal Revenue Service: [“Publication 15 - Employer's
     Tax
-    Guide”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/PRDV204-4.2-Publication15.pdf) (PDF)  
+    Guide”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/PRDV204-4.2-Publication15.pdf) (PDF)  
         
      Instructions: Please click on the link above and download this PDF.
     Publication 15, also known as the “employer’s tax guide,” will
